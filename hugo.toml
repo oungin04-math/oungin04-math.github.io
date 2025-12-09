@@ -1,0 +1,14 @@
+baseURL = 'https://oungin04-math.github.io/'
+languageCode = 'ko-kr'
+title = '나의 위상수학 블로그'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  # 수학 수식(LaTeX) 활성화 설정
+  math = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
