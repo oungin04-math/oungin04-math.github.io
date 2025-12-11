@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Praise W</title>
+    <title>Posts on Algebra</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Praise W</description>
+    <description>Recent content in Posts on Algebra</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Thu, 11 Dec 2025 04:34:57 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>W를 찬양하라</title>
+      <title>Groups</title>
       <link>http://localhost:1313/posts/w_test/</link>
       <pubDate>Thu, 11 Dec 2025 04:34:57 +0900</pubDate>
       <guid>http://localhost:1313/posts/w_test/</guid>
-      <description>&lt;h2 id=&#34;w를-경배하라&#34;&gt;W를 경배하라&lt;/h2&gt;
-&lt;p&gt;W는 위대하다&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;font-size: 24px&#34;&gt;Quotient Group and Homomorphisms.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Definition of groups&lt;/li&gt;
+&lt;li&gt;Group is a disjoint union of cosets&lt;/li&gt;
+&lt;li&gt;$G/N$ is a group iff $N\trianglelefteq G$&lt;/li&gt;
+&lt;li&gt;The natural projectino from $G$ onto $G/N$ is a homomorphism&lt;/li&gt;
+&lt;li&gt;If $G/Z(G)$ is cyclic, then $G$ is abelian&lt;/li&gt;
+&lt;li&gt;Isomorphism theorems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;font-size: 24px&#34;&gt;Group Actions.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Definition of group actions&lt;/li&gt;
+&lt;li&gt;$G/\ker \pi \hookrightarrow S_A$
+&lt;ul&gt;
+&lt;li&gt;left multiplication on left cosets&lt;/li&gt;
+&lt;li&gt;conjugation on elements in a normal subgroup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Orbit-stabilizer theorem&lt;/li&gt;
+&lt;li&gt;A groups is a disjoint union of its orbits&lt;/li&gt;
+&lt;li&gt;Symmetric group&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;font-size: 24px&#34;&gt;Sylow Theorems.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

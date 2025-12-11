@@ -1,6 +1,6 @@
 baseURL = 'https://oungin04-math.github.io/'
 languageCode = 'ko-kr'
-title = 'Praise W'
+title = 'Algebra'
 theme = 'PaperMod'
 
 [params]
@@ -12,3 +12,15 @@ theme = 'PaperMod'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"    # 화면에 보일 이름 (예: 분류, 목차)
+    url = "/categories/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 20
